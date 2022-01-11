@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Hayley (@haypurcell)
-- 👀 I’m interested in learning to code and potentially making a career change.
+- 👀 I’m interested in learning to code and potentially making a career change into database management/data analytics.
 - 🌱 I’m currently learning the basics, working through HarvardX's CS50 course.
-- 💞️ I’m looking to collaborate on ...
 
 
 <!---
