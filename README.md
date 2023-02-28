@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hayley (@haypurcell)
 - 👀 I’m interested in learning to code and potentially making a career change into database management/data analytics.
-- 🌱 I’m currently learning the basics, and have rudimentary knowledge of SQL and R. I am now moving into portfolio projects to highlight and further develop my skills!
+- 🌱 I’m currently learning the basics, and have rudimentary knowledge of SQL, shell script, and Python. Currently, I am continuing my exploration of Python, as well as working on some smaller scale projects regarding data manipulation.
 
 
 <!---
